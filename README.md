@@ -13,3 +13,9 @@ sebagai fondasi menuju blockchain development.
 - [ ] CSS styling
 - [ ] JavaScript basic
 - [ ] DOM manipulation
+
+## Day 1 Progress
+- Setup Git & GitHub
+- First commit & push
+- Basic DOM manipulation
+- Debugged typo issue
